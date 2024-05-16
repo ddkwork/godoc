@@ -9,6 +9,6 @@ import (
 
 func main() {
 	app.Run("godoc", func(w *unison.Window) {
-		godoc.New().Layout(w.Content())
+		godoc.New("D:\\workspace\\workspace\\app").Layout(w.Content())
 	})
 }
