@@ -1,3 +1,3 @@
 module github.com/ddkwork/godocDemo
 
-go 1.22.2
+go 1.22.3
